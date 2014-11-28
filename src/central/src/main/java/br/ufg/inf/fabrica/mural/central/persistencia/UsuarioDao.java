@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package br.ufg.inf.fabrica.mural.central.dominio;
+package br.ufg.inf.fabrica.mural.central.persistencia;
 
 /**
  *
  * @author maycon
  */
-public class Usuario {
+public class UsuarioDao {
     
 }
